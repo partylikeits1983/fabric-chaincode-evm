@@ -1,7 +1,5 @@
 # Hyperledger Fabric EVM chaincode
 
-**This project has been archived for lack of interest within the community.**
-
 This is the project for the Hyperledger Fabric chaincode, integrating the
 Burrow EVM. At its essence, this project enables one to use the Hyperledger
 Fabric permissioned blockchain platform to interact with Ethereum smart
